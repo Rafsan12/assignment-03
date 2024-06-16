@@ -1,0 +1,17 @@
+.hero-section {
+  text-align: center;
+  margin-top: 50px;
+}
+.hero-section h1 {
+  font-size: 76px;
+  font-weight: bold;
+}
+
+.hero-section p {
+  margin-top: 10px;
+  font-size: 18px;
+}
+.btn-primary {
+  background-color: #ff7f50;
+  border: none;
+}
