@@ -15,3 +15,30 @@
   background-color: #ff7f50;
   border: none;
 }
+.testimonials-section {
+  background-color: #f9f9f9;
+  padding: 50px 0;
+}
+.testimonials-section h2 {
+  font-weight: bold;
+}
+.testimonial-text {
+  margin-bottom: 20px;
+}
+.testimonial-author {
+  display: flex;
+  align-items: center;
+}
+.testimonial-author img {
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  margin-right: 10px;
+}
+.testimonial-author .author-name {
+  font-weight: bold;
+}
+.testimonial-author .author-role {
+  font-size: 14px;
+  color: gray;
+}
